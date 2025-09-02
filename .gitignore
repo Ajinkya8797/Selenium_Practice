@@ -18,6 +18,7 @@ hs_err_pid*
 activityLog.log
 ##############################
 ## Maven
+.mvn/
 ##############################
 target/
 pom.xml.tag
